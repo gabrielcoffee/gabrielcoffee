@@ -1,6 +1,6 @@
 # Gabriel Fernandes Pereira
 
-Freelance Developer | Designing websites, custom web apps, mobile apps, and interactive games; leveraging six years of experience and a focus on AI-driven innovation.
+Freelance Developer | Designing websites, custom web apps, mobile apps, and interactive games; leveraging six years of experience and currently studying AI-driven innovation.
 
 <div align="center">
   <table style="border-collapse: collapse; width: 100%;">

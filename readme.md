@@ -1,6 +1,6 @@
 # Gabriel Fernandes Pereira
 
-Freelance Developer | Designing websites, custom web apps, mobile apps, and interactive games; leveraging six years of experience and currently studying AI-driven innovation.
+Software Engineer | Full Stack Developer: Designing websites, custom web apps and mobile apps; with five years of programming experience; Currently studying the field of Data Science and Machine Learning.
 
 <div align="center">
   <table style="border-collapse: collapse; width: 100%;">

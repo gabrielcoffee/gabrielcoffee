@@ -17,5 +17,5 @@ Software Engineer | Full Stack Developer: Designing websites, custom web apps an
 
 ## Contact me :)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fernandes-pereira-38b6b427b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gfernandes-p/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:gfernandespereira18@gmail.com)

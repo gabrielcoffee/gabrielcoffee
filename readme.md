@@ -1,6 +1,6 @@
 # Gabriel Fernandes Pereira
 
-Software Engineer | Full Stack Developer: Designing websites, custom web apps and mobile apps; with five years of programming experience; Currently studying the field of Data Science and Machine Learning.
+Software Engineer | Full Stack Developer: Designing websites, custom web apps and mobile apps; with five years of programming experience; Currently developing an web app with React/Next.js, Node/Express and PostgreSQL.
 
 <div align="center">
   <table style="border-collapse: collapse; width: 100%;">
